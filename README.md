@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielToise
-- 👀 I’m interested in Gaming and Web Development
+- 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Full-Stack programming
 <!---
 GabrielToise/GabrielToise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
